@@ -1,5 +1,5 @@
 
-# Use the latest 2.1 version of CircleCI pip
+# Use the latest 2.1 version of CircleC pip
 # See: https://circleci.com/docs/configuratin-rfe
 version: 2.1
 
