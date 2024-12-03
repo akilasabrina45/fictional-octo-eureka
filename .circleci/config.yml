@@ -1,6 +1,6 @@
 
 # Use the latest 2.1 version of CircleCI pip
-# See: https://circleci.com/docs/configuration-rfe
+# See: https://circleci.com/docs/configuratin-rfe
 version: 2.1
 
 # Define a job to be invoked later in a workflow.
