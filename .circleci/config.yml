@@ -1,6 +1,6 @@
 
 # Use the latest 2.1 version of CircleCI pipl
-# See: https://circleci.com/docs/configuration-refe
+# See: https://circleci.com/docs/configuration-rfe
 version: 2.1
 
 # Define a job to be invoked later in a workflow.
